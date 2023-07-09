@@ -9,5 +9,6 @@
 - [x] 代理使用
 - [x] 可切换API节点
 - [x] 允许用户在指定模型中切换
+- [x] 使用EUID标记最终用户，[详见此处](https://platform.openai.com/docs/guides/safety-best-practices/end-user-ids)
 - [ ] 允许用户使用自己的API KEY
 - [ ] 允许用户获取对话记录
